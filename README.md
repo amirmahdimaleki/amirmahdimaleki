@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github.com/amirmahdimaleki/amirmahdimaleki//api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
