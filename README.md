@@ -21,4 +21,4 @@
 <br>
 
 ![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif)
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
