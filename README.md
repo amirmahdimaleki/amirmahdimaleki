@@ -13,8 +13,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirmahdimaleki&show_icons=true&theme=onedark)
-<img align='center' src='https://avatars3.githubusercontent.com/u/42931933?s=400&u=46a1e5f255ea078bbe5ef5e4145bcb85de70fd59&v=4' width='100'>
-<img align='center' src='https://avatars0.githubusercontent.com/u/56135357?s=400&u=3ebf5dc8993303d0f9a3f61516ef93daf1ff70dd&v=4' width='100'> 
-<img align='center' src='https://avatars.githubusercontent.com/u/70484570?v=4' width='100'> | <img align='center' src='https://avatars.githubusercontent.com/u/70598100?v=4' width='100'> | <img align='center' src='https://avatars.githubusercontent.com/u/4624113?v=4' width='100'> | <img align='center' src='https://avatars.githubusercontent.com/u/74645302?v=4' width='100'> 
 
 
