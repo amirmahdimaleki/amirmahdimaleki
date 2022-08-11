@@ -12,6 +12,18 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<div>
+    <a  href="https://www.linkedin.com/in/amir-mahdi-maleki-maaf-b81780178/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://twitter.com/Amirmahimalek4" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+    </a>
+  </div>
+</div>
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirmahdimaleki&show_icons=true&theme=onedark)
 <br>
 <br>
@@ -20,9 +32,13 @@
 </p>
 <br>
 
-![image](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif)
+<div align="center">
+ <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif"><img/>
+</div>
+
 
 <!-- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
+
 
 
 
@@ -30,3 +46,4 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+
