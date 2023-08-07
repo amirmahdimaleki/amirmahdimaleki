@@ -23,8 +23,6 @@
 </div>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirmahdimaleki&show_icons=true&theme=onedark)
 <br>
 <br>
 <p align="center">
